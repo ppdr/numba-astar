@@ -1,19 +1,4 @@
-.. image:: https://badge.fury.io/py/astar.svg
-    :target: https://badge.fury.io/py/astar
-
-.. image:: https://github.com/jrialland/python-astar/actions/workflows/pythonpackage.yml/badge.svg
-    :target: https://github.com/jrialland/python-astar/actions/workflows/pythonpackage.yml
-    
-.. image:: https://coveralls.io/repos/github/jrialland/python-astar/badge.svg?branch=master
-    :target: https://coveralls.io/github/jrialland/python-astar?branch=master
-
-.. image:: https://img.shields.io/github/stars/jrialland/python-astar
-    :target: https://github.com/jrialland/python-astar
-
-.. image:: https://img.shields.io/github/forks/jrialland/python-astar
-    :target: https://github.com/jrialland/python-astar
-
-python-astar
+numba-astar
 ============
 
 This is a simple implementation of the `a-star path finding

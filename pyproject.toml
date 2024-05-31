@@ -1,11 +1,11 @@
 [tool.poetry]
-name = "astar"
-version = "0.99"
-description = "generic A-Star path searching algorithm"
+name = "numba-astar"
+version = "0.1"
+description = "Numba implementation of the A* algorithm"
 license = "BSD"
-authors = ["J Rialland <julien.rialland@gmail.com>"]
+authors = ["Shunichiro Sugiyama <osg273.w98@gmail.com>"]
 readme = "README.rst"
-repository = "https://github.com/jrialland/python-astar"
+repository = "https://github.com/ppdr/numba-astar"
 classifiers = [
     "Intended Audience :: Developers",
     "Operating System :: OS Independent",
@@ -14,7 +14,7 @@ classifiers = [
     "Programming Language :: Python",
 ]
 packages = [
-    { include = "astar" },
+    { include = "numba-astar" },
 ]
 
 [tool.poetry.dependencies]
